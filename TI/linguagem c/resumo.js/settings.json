@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "stdio.h": "c",
-        "locale.h": "c",
-        "stdlib.h": "c",
-        "time.h": "c"
-    },
-    "liveServer.settings.port": 5501
-}
